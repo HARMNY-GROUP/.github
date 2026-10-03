@@ -1,5 +1,4 @@
-<img width="500" height="500" alt="HARMNY_logo2" src="https://github.com/user-attachments/assets/858f6ce7-b607-436f-8d75-c1962e574174" />
-
+<img width="500" height="250" alt="banner_github" src="https://github.com/user-attachments/assets/cce8b4be-0c51-4144-8165-235944007aca" />
 
 ## Welcome to HARMNY
 
